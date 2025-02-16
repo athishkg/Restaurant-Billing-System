@@ -18,15 +18,6 @@ This is a simple restaurant billing system built using Python and Tkinter. It al
 *   Tkinter (usually included with Python)
 
 
-
-## Usage
-
-1.  **Run the script:**
-
-    ```
-    python your_script_name.py  # Replace your_script_name.py
-    ```
-
 2.  **Interact with the GUI:**
 
     *   Select items from the menu by checking the corresponding checkboxes.
